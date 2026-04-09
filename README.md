@@ -1,2 +1,5 @@
 # MyFirstRepository
-STA445 repository 
+# Moises Jimenez
+# STA445 repository 
+
+
